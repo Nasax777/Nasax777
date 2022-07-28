@@ -2,7 +2,7 @@
 20220728_131024.gif
 <!--
 **Nasax777/Nasax777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p><img align="right" alt="gif" src="https://github.com/Nasax777/Nasax777/blob/main/20220728_131024.gif" width="500" height="320" /></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
