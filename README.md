@@ -1,3 +1,9 @@
+
+<p align="center"><a href="https://wa.me/message/BSNLUHMX7DGZK1"><img title="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=23&duration=4000&color=67FF08&background=000000&width=505&height=55&lines=Hacking+is+a+talent.;You+won't+learn+it+at+school.;If+you+were+born+to+become+a+Hacker%2C;it's+your+destiny.;Otherwise%2C+you'll+be+Hacked.)](https://git.io/typing-svg)
 
 ### Hi there 👋
