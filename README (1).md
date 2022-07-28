@@ -1,6 +1,6 @@
 <h1 align="center">𝙒𝙀𝙇𝙇 𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀 ᗪᗴᗩᗪᕼ4᙭</h1>
 <h3 align="center">Posting for a friend and the friend is me🌱</h3>
-
+<p><img align="right" alt="gif" src="https://github.com/Nasax777/Nasax777/blob/main/20220728_131024.gif" width="250" height="200" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadh4x&label=Profile%20views&color=0e75b6&style=flat" alt="deadh4x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadh4x" alt="deadh4x" /></a> </p>
